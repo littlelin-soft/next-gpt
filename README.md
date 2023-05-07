@@ -1,6 +1,8 @@
 
 # XIAOLIN-GPT: Create Your Own AI
 
+![alt text](https://raw.githubusercontent.com/littlelin-soft/next-gpt/main/code_Design.png?raw=true)
+
 ## 🚀 Features
 
 - 🌐  Support for your own openai key
